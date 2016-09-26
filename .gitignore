@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+__pycache__/*
+seq2seq_data/*
+venv/*
+seq2seq_train/*
