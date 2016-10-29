@@ -3,9 +3,7 @@ __pycache__/*
 seq2seq_data/*
 venv/*
 
-seq2seq_train/*
-seq2seq_train_protein/*
-seq2seq_train_twitter/*
+seq2seq_train*
 
 protein_data/*
 twitter_data/*
